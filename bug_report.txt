@@ -1,1 +1,31 @@
+PDP - Instead of values in the "warranty" field, the code is displayed
+
+Severity
+    Medium 
+
+Issue Type
+    Functional
+
+Frequency
+    Every Time 
+    
+    
+Action Performed
+    1. Open https://ngw-sandbox.lighthouselabs.eu/===================/alle-fahrzeuge.html
+
+    2. Click on "Volkswagen Golf Variant Comfortline"
+    3. Scroll to "warranty.label"
+
+Expected Result
+    Values should be displayed correctly
+
+Actual Result
+    Instead of values in the "warranty" field, the code is displayed
+
+Exact Browser + Browser Version
+
+    Google Chrome 96.0.4664.45
+    
+    Attachments
+    Bug5352199_Screenshot_5.png
 
